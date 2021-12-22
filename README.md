@@ -1,5 +1,5 @@
 # WMI Tutorial
-A tutorial for querying system information from [Windows Management Instrumentation (WMI)](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/wmi-start-page) in .NET.
+A tutorial on querying system information from [Windows Management Instrumentation (WMI)](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/wmi-start-page) in .NET.
 
 Working on a library needing the ability to detect virtual environments I resorted to using WMI. So I decided to build a proper console application and integrate part of my works into it for others to reference and learn from.
 
